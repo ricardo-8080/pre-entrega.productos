@@ -1,0 +1,11 @@
+# Configuraciones de editores de código (NO SUBIR)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Archivos compilados de Java (solo se sube el código fuente)
+*.class
+bin/
